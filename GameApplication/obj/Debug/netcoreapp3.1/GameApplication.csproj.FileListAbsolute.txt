@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\bin\Debug\netcoreapp3.1\GameApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\GameApplication\obj\Debug\netcoreapp3.1\GameApplication.genruntimeconfig.cache
