@@ -38,7 +38,7 @@ namespace GameApp
                             //Use Reflection  
                             //Assembly Load
                             System.Reflection.Assembly basicLevelLib =
-                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\LevelLibs\BasicLevelLib.dll");
+                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\GitHub\latebinding-using-reflection-Datta98\GameApp\bin\Debug\LevelLibs\BasicLevelLib.dll");
                             // Search For Class - BasicLevelType
                             System.Type basicLevelTypeClassRef = basicLevelLib.GetType("BasicLevelLib.BasicLevelType");
                             if (basicLevelTypeClassRef != null)
@@ -71,7 +71,7 @@ namespace GameApp
                             Console.WriteLine("Intermediate Level");
 
                             System.Reflection.Assembly intermediateLevelLib =
-                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\LevelLibs\IntermediateLevelLib.dll");
+                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\GitHub\latebinding-using-reflection-Datta98\GameApp\bin\Debug\LevelLibs\IntermediateLevelLib.dll");
 
                             System.Type intermediateLevelTypeClassRef = intermediateLevelLib.GetType("IntermediateLevelLib.IntermediateLevelType");
                             if (intermediateLevelTypeClassRef != null)
@@ -98,7 +98,7 @@ namespace GameApp
                             Console.WriteLine("Advanced Level");
 
                             System.Reflection.Assembly advanceLevelLib =
-                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\LevelLibs\AdvancedLevelLib.dll");
+                            System.Reflection.Assembly.LoadFile(@"C:\Users\shridatta.r\Documents\GitHub\latebinding-using-reflection-Datta98\GameApp\bin\Debug\LevelLibs\AdvancedLevelLib.dll");
 
                             System.Type advanceLevelTypeClassRef = advanceLevelLib.GetType("AdvancedLevelLib.AdvancedLevelType");
                             if (advanceLevelTypeClassRef != null)
