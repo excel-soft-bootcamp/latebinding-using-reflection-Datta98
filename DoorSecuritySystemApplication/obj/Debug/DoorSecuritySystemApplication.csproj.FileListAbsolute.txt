@@ -1,0 +1,7 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\bin\Debug\DoorSecuritySystemApplication.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\bin\Debug\DoorSecuritySystemApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\bin\Debug\DoorSecuritySystemApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\obj\Debug\DoorSecuritySystemApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\obj\Debug\DoorSecuritySystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\obj\Debug\DoorSecuritySystemApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DoorSecuritySystemApplication\obj\Debug\DoorSecuritySystemApplication.pdb
